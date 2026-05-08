@@ -5,3 +5,4 @@
 *.bas linguist-language=B4X
 *.b4j linguist-detectable=true
 *.bas linguist-detectable=true
+*.b4xtemplate linguist-detectable=true
